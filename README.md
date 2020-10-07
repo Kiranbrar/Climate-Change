@@ -1,4 +1,5 @@
 # Climate-Change-
+Created dashboards in Tableau to study climate change
 Class project completed Information Visualization class at San Jose State University.
 
 
